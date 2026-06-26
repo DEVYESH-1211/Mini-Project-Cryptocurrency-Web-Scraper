@@ -1,0 +1,6 @@
+{
+  "name": "DevScrape",
+  "description": "An advanced, developer-focused full-stack web scraper and dashboard that tracks, filters, charts, and uses Gemini AI to analyze real-time cryptocurrency data from CoinMarketCap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
